@@ -1,11 +1,36 @@
+// My Styles
+:root {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+html,
+body {
+  height: 100%;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+li {
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+// end of My Styles
 // Common styles of the project
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
 .page {
-  
 }
 
 .page__wrapper {
