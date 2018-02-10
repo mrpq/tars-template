@@ -1,3 +1,5 @@
+`tars init --exclude-html --exclude-css -s https://github.com/mrpq/tars-template/archive/master/.zip`
+
 <p align="right">
 English description | <a href="README_RU.md">Описание на русском</a>
 </p>
